@@ -18,4 +18,4 @@ Visitors of the exhibition are confronted with the game already running on a tab
 ---
 &nbsp;![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF) | Dec 2021 - Jan 2022 | for Android
 
-![Pad](https://user-images.githubusercontent.com/98030917/150649879-31f2b2c8-7608-4ea9-bb8f-3fa8d1510ceb.gif)
+<img src="https://user-images.githubusercontent.com/98030917/150652955-f0ce7385-3ade-4f6d-a8be-9fae7cc74e00.gif" alt="GIF of walking Pixel Dude" width="166.43" height="154.66"/>
