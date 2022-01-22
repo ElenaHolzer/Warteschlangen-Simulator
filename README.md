@@ -19,5 +19,3 @@ Visitors of the exhibition are confronted with the game already running on a tab
 &nbsp;![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF) | Dec 2021 - Jan 2022 | for Android
 
 ![Pad](https://user-images.githubusercontent.com/98030917/150649879-31f2b2c8-7608-4ea9-bb8f-3fa8d1510ceb.gif)
-
-2D Maze game as artwork for the art exhibition "IRREN" at Pasinger Fabrik in Munich
