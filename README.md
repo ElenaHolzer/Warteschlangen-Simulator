@@ -11,9 +11,9 @@
 
 *Warteschlangen Simulator (engl. "queue simulator") is an art project rather than a proper game, for you can neither win, nor lose or even quit the game.*
 
+The exhibition is about Homer's Odyssey, which - for the most part - consists of the protagonists losing their way or having to wait. This maze game aims to play with the users frustration, hope of getting to the goal and not even being sure what exactly the destination and winning conditions are. Exactly like the gods did with Odysseus and his companions.
+
 Visitors of the exhibition are confronted with the game already running on a tablet during their wait in the queue before the main room. Hoping to have found a pleasant pastime they may try the game using their fingers to guide the player through the maze. But one can't get any further than up to the end of a queue where several waiting people block the exit of the maze. Visitors may try to figure out what to do by letting the player run all the way back or tapping on the main menu buttons, but the latter will only cause a loading screen to pop up that says 'please wait'. To exit the game one has to physically step away from the tablet.
-
-
 
 ---
 &nbsp;![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF) | Dec 2021 - Jan 2022 | for Android
