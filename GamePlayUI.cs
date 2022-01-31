@@ -14,4 +14,9 @@ public class GamePlayUI : MonoBehaviour
     {
         SceneManager.LoadScene("BitteWarten");
     }
+
+    public void IdleScreen()
+    {
+        SceneManager.Loadscene("Screensaver");
+    }
 }
