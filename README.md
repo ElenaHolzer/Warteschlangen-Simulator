@@ -1,4 +1,4 @@
-![WS_Titel](https://user-images.githubusercontent.com/98030917/150653692-a191c878-117b-4f28-8e60-c7d6fa183146.png)
+![WS_Titel_TRANSP](https://user-images.githubusercontent.com/98030917/154429966-dc19a22d-4c07-4d64-bf0f-f47b6dab676d.png)
 
 ## Warteschlangen Simulator Demo Video
 &nbsp;<a href="http://www.youtube.com/watch?feature=player_embedded&v=CPEz8YxLzNQ" target="_blank"><img src="http://img.youtube.com/vi/CPEz8YxLzNQ/0.jpg" alt="Preview Pic of WS Demo Video"/></a>
