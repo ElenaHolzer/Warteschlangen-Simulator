@@ -1,7 +1,7 @@
 ![WS_Titel_TRANSP](https://user-images.githubusercontent.com/98030917/154429966-dc19a22d-4c07-4d64-bf0f-f47b6dab676d.png)
 
 ## Warteschlangen Simulator Demo Video
-&nbsp;<a href="http://www.youtube.com/watch?feature=player_embedded&v=CPEz8YxLzNQ" target="_blank"><img src="https://user-images.githubusercontent.com/98030917/154430443-f5e61f39-0dc5-4451-9749-24de38abbcca.JPG" alt="Preview Pic of WS Demo Video"/></a>
+&nbsp;<a href="http://www.youtube.com/watch?feature=player_embedded&v=CPEz8YxLzNQ" target="_blank"><img src="https://user-images.githubusercontent.com/98030917/154430644-bd4c6afe-0d08-419c-ab58-304276d18df5.jpg" alt="Preview Pic of WS Demo Video"/></a>
 
 ---
 - 2D Maze Game
