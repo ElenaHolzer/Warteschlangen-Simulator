@@ -3,7 +3,7 @@
 ## Warteschlangen Simulator Demo Video
 &nbsp;<a href="http://www.youtube.com/watch?feature=player_embedded&v=CPEz8YxLzNQ" target="_blank"><img src="https://user-images.githubusercontent.com/98030917/154430644-bd4c6afe-0d08-419c-ab58-304276d18df5.jpg" alt="Preview Pic of WS Demo Video"/></a>
 
----
+## About
 - 2D Maze Game
 - acting as artwork for the exhibition ["IRREN" @ Pasinger Fabrik, Munich](https://www.pasinger-fabrik.de/Veranstaltung/odyssee-a-journey-into-the-light-irren/?instance_id=6432)
 - made with Unity
@@ -15,10 +15,9 @@ The exhibition is about Homer's Odyssey, which - for the most part - consists of
 
 Visitors of the exhibition are confronted with the game already running on a tablet during their wait in the queue before the main room. Hoping to have found a pleasant pastime they may try the game using their fingers to guide the player through the maze. But one can't get any further than up to the end of a queue where several waiting people block the exit of the maze. Visitors may try to figure out what to do by letting the player run all the way back or tapping on the main menu buttons, but the latter will only cause a loading screen to pop up that says 'please wait'. To exit the game one has to physically step away from the tablet.
 
----
-Press reception:
-Article in German newspaper Sueddeutsche Zeitung "Von Menschen und Göttern", February 10th 2022
-https://www.sueddeutsche.de/muenchen/quadro-nuevo-album-ausstellung-pasinger-fabrik-odyssee-1.5525893
+## Press reception
+Article in German newspaper [Sueddeutsche Zeitung "Von Menschen und Göttern"](https://www.sueddeutsche.de/muenchen/quadro-nuevo-album-ausstellung-pasinger-fabrik-odyssee-1.5525893), February 10th 2022
+
 ---
 &nbsp;![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF) | Dec 2021 - Jan 2022 | for Android
 
